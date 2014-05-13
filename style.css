@@ -1,0 +1,135 @@
+
+
+
+body{
+	font-family: arial;
+	height: auto;
+}
+
+a{
+	text-decoration: none;
+	color: #404040;
+
+}
+
+a:hover{
+	text-decoration: underline;
+	
+}
+
+
+ul li{
+	display: inline;
+	margin: 6px;
+	}
+	
+#grid{
+	vertical-align: bottom;
+	height: 30px;
+}	
+
+.btn2{
+	border: 1px solid #4285f4;
+	font-weight: bold;
+	outline: none;
+	background: #4285f4;
+	background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+	border-radius: 2px;
+	color: white;
+	height: 30px;
+	font-size: small;
+	letter-spacing: normal;
+}
+
+#personal{
+	position: relative;
+	text-align: right;
+	margin-right: 20px;
+	margin: auto;
+	font-size: 80%;
+}	
+
+#logo img{
+	position: relative;
+	top:70px;
+	width:270px;
+	display: block;
+	margin: 100px auto;
+}	
+
+#searchbar{
+	position: relative;
+	top:-15px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+	height: 30px;
+	border: #cecece solid 1px;
+	background-image: url('images/mic.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right center; 
+
+}
+
+#button{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#bottom{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: #eee;
+	border-top: #b6b6b6 1px solid;
+	font-size: small;
+	vertical-align: bottom;
+}
+
+.btn{
+	background: linear-gradient(to bottom, #f2f2f2, #eee);
+	border-radius: 2px;
+	color: #535353;
+	border: #b6b6b6 solid 1px;
+	font: Arial,sans-serif;
+	font-weight: bold;
+	font-size: .7em;
+	height: 30px;
+	
+}
+
+
+#ABA{
+	position: relative;
+	float: left;
+}
+
+#PSU{
+	position: relative;
+	float: right;	
+	margin-right: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
